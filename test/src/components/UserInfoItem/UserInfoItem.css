@@ -1,0 +1,15 @@
+.user-info-item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 5px;
+}
+
+.user-info-item .avatar{
+  padding: 5px;
+}
+.user-info-item .user-info{
+  flex: 1;
+  padding: 5px;
+  border-bottom: 1px solid #ccc
+}

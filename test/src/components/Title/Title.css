@@ -1,0 +1,12 @@
+.title{
+  padding: 0;
+  margin: 0;
+}
+
+h1.title{
+  font-size: 2rem;
+}
+
+h5.title{
+  font-weight: 400;
+}

@@ -1,0 +1,30 @@
+.btn{
+  display: flex;
+  align-items: center;
+  color: inherit;
+  background: transparent;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+.btn:focus{
+  outline: none;
+}
+
+.btn:hover{
+  cursor: pointer;
+}
+
+.btn.no-border{
+  border: none;
+}
+
+.btn.user{
+  display: inline-block;
+  background: #5897ff;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  margin: 2px;
+}
